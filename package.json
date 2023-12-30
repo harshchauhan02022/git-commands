@@ -1,0 +1,22 @@
+{
+  "name": "gitcommands",
+  "version": "1.0.0",
+  "description": "Git commands for deploy code on github.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshchauhan02022/git-commands.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshchauhan02022/git-commands/issues"
+  },
+  "homepage": "https://github.com/harshchauhan02022/git-commands#readme"
+}
