@@ -24,4 +24,4 @@ git commit -m "Initial Commit"
 
 ## Now Finaly Push Code to GitHub Repository
 
-git push origin main
+git push origin [branch name]
