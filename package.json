@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/harshchauhan02022/git-commands/issues"
   },
-  "homepage": "https://github.com/harshchauhan02022/git-commands#readme"
+  "homepage": "https://github.com/harshchauhan02022/git-commands#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
 }
